@@ -9,7 +9,7 @@ print(5+6)
 4 Gaiðute Ksenija
 
 5 Gorniks Arturs
-
+print(7*10)
 6 Guþonoka Jevgeòija
 
 7 Isaèenko Aleksandrs
